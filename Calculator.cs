@@ -30,7 +30,7 @@ public static class Calculator
                 Console.WriteLine("Result: " + (first/second));
                 break;
                 case '%':
-                Console.WriteLine("Result: " +
+                Console.WriteLine("Result: " +);
                 default:
                 Console.WriteLine("Incorrect Operation used. Please try again.");
             }
